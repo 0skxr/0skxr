@@ -9,6 +9,6 @@
 ### ⚡About Me⚡
 - 14 years old 🌱
 - Python coding since 5 years 🌱
-- I like Pizza
+- I like Pizza 🍕
 
 
