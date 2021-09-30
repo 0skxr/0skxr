@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python (The Learning will never end)
 - 🤔 I’m looking for help with 3D Math
 - 📫 How to reach me: Vollkorncrafter#5442
-- ⚡ Fun fact: Huge Martin Garrix Fan ➕✖️
+- ⚡ Fun fact: Huge Martin Garrix Fan ![me when](https://cdn.betterttv.net/emote/613a791f4b0ce9183035816e/1x)
 
 ## ⚡About Me ![creer](https://cdn.betterttv.net/emote/5f93902c6f583802e3899477/1x)⚡
 - 14 years old 🌱
