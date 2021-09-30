@@ -14,8 +14,8 @@
 
 ## 🌱Stats ![Statistiks](https://cdn.betterttv.net/emote/6123bd6b76ea4e2b9f78e113/1x)🌱
 
-### Languages
+### 📝Languages📝
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vollkorncrafter)
-### Stats
+### 📈Stats📈
 ![Vollkorncrafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=vollkorncrafter&show_icons=true)
 ### 
