@@ -15,4 +15,5 @@
 ### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vollkorncrafter)
+[Vollkorncrafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=vollkorncrafter&show_icons=true)
 
