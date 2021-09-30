@@ -12,7 +12,7 @@
 - I like Pizza 🍕
 
 
-## Stats
+## 🌱Stats ![Statistiks](https://cdn.betterttv.net/emote/6123bd6b76ea4e2b9f78e113/1x)🌱
 
 ### Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vollkorncrafter)
