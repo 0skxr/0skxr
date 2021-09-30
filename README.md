@@ -14,10 +14,8 @@
 
 ## Stats
 
-### Most Languages
+### Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vollkorncrafter)
 ### Stats
 ![Vollkorncrafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=vollkorncrafter&show_icons=true)
-### Langs I used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vollkorncrafter)
-
+### 
