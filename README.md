@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on some cool Python code
 - 🌱 I’m currently learning Python (The Learning will never end)
@@ -6,7 +6,7 @@
 - 📫 How to reach me: Vollkorncrafter#5442
 - ⚡ Fun fact: Huge Martin Garrix Fan ➕✖️
 
-### ⚡About Me⚡
+## ⚡About Me⚡
 - 14 years old 🌱
 - Python coding since 5 years 🌱
 - I like Pizza 🍕
@@ -14,10 +14,10 @@
 
 ### Stats
 
-## Most Languages
+### Most Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vollkorncrafter)
-## Stats
+### Stats
 ![Vollkorncrafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=vollkorncrafter&show_icons=true)
-## Langs I used
+### Langs I used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vollkorncrafter)](h
 
