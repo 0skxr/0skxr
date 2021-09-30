@@ -1,4 +1,4 @@
-## [Hi There!](https://cdn.betterttv.net/emote/59b595a06c94b55ba136fb61/1x)
+## ![Hi There!](https://cdn.betterttv.net/emote/59b595a06c94b55ba136fb61/1x)
 
 - 🔭 I’m currently working on some cool Python code
 - 🌱 I’m currently learning Python (The Learning will never end)
