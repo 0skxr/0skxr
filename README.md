@@ -10,7 +10,8 @@
 - 15 years old ![teddies are cute](https://cdn.betterttv.net/emote/604a687f306b602acc59b025/1x)
 - Python coding since 5 years 🌱
 - I like Pizza 🍕
-
+## Visits
+![:Vollkorncrafter](https://count.getloli.com/get/@:Vollkorncrafter)
 
 ## 🌱Stats ![Statistiks](https://cdn.betterttv.net/emote/6123bd6b76ea4e2b9f78e113/1x)🌱
 
