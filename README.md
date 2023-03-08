@@ -1,5 +1,5 @@
 ## Visits
-![:Vollkorncrafter](https://count.getloli.com/get/@:Vollkorncrafter)
+![Vollkorncrafter](https://count.getloli.com/get/@:Vollkorncrafter)
 
 ## 🌱Stats !🌱
 
